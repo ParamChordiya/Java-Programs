@@ -22,3 +22,24 @@ Write a program in JAVA to demonstrate the method and constructor overloading
 # PROGRAM 5:
 
 Write Programs in Java to sort i) List of integers ii) List of names. The objective of this assignment is to learn Arrays and Strings in Java
+
+# PROGRAM 6:
+
+Write a Program in Java to add two matrices. The objective of this assignment is to learn Arrays in Java
+
+# PROGRAM 7:
+
+Write a program in Java to create a player class. Inherit the classes Cricket_player, Football_player and Hockey_player from player class. The objective of this assignment is to learn the concepts of inheritance in Java.
+
+# PROGRAM 8:
+
+Write a Java program which implements interface
+
+# PROGRAM 9:
+
+Write a java program which use try and catch for exception handling.
+
+# PROGRAM 10:
+
+Write a java program in which data is read from one file and should be written in another file line by line.
+
